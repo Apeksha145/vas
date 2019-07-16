@@ -1,0 +1,74 @@
+.main_title {
+    font-family: 'EB Garamond', serif;
+    letter-spacing: 2px;
+    font-size: 37px;
+    position: absolute;
+    bottom: 10rem;
+    margin: 0;
+    text-align: center;
+    left: 0;
+    right: 0;
+    color: #fff;
+}
+.main_title {
+    bottom: 5rem;
+}
+.off__img {
+    margin: auto;
+    display: block;
+}
+.info_title {
+    position: relative;
+    max-width: 1920px;
+    margin: auto;
+}
+.follow_us {
+    display: inline-flex;
+    position: absolute;
+    right: 5%;
+    top: 15px;
+}
+.follow_us ul{
+    padding: 0;
+    margin: -3px 0 0 8px;
+    list-style-type: none;
+}
+.follow_us h2 {
+    margin: 3px 0 3px 0;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+.follow_us ul li {
+    display: inline-block;
+    margin-right: 6px;
+    max-width: 16px;
+}
+.info_title {
+    padding: 70px 0;
+    width: 100%;
+    bottom: 0;
+    background: #fff;
+}
+.site_logo img{
+    max-width: 333px;
+}
+/* FOR LOGO TEXT CSS
+.site_logo{
+    max-width: 333px;
+	font-size:25px;
+	text-align:center;text-transform:uppercase;
+	font-weight:bold;
+}*/
+.contact_info a {
+    position: absolute;
+    top:20px;
+    left:0px;
+    width: 100%;
+    min-height: 160px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 18px;
+    transition: .2s ease-out;
+	text-decoration:none;
+	padding-left:20px;
+}
